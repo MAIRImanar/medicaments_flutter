@@ -1,10 +1,10 @@
-# 💊 Medicaments Flutter App
+#  Medicaments Flutter App
 
 Application mobile développée avec Flutter permettant de gérer les médicaments personnels et de partager les médicaments inutilisés sous forme de dons.
 
 ---
 
-## 📱 Fonctionnalités
+##  Fonctionnalités
 
 ✔ Ajouter un médicament  
 ✔ Suivre les doses consommées  
@@ -25,7 +25,7 @@ Application mobile développée avec Flutter permettant de gérer les médicamen
 
 ---
 
-## 📸 Captures d'écran
+## Captures d'écran
 
 ### Mes médicaments
 ![Mes medicaments](screenshots/medicaments.png)
@@ -47,7 +47,7 @@ Application mobile développée avec Flutter permettant de gérer les médicamen
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Cloner le projet :
 
