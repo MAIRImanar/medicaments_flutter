@@ -1,0 +1,32 @@
+name: medicaments
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase - إصدارات محدثة
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+  firebase_database: ^11.0.4
+  
+  # الإشعارات
+  flutter_local_notifications: ^17.2.3
+  
+  # التواريخ
+  intl: ^0.19.0
+  
+  cupertino_icons: ^1.0.8
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459784963936",
+    "firebase_url": "https://medicaments-f5daa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medicaments-f5daa",
+    "storage_bucket": "medicaments-f5daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459784963936:android:5699ced54f7115c4d30005",
+        "android_client_info": {
+          "package_name": "com.example.medicaments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFBY4des8YDbuU1QeppaDFI9YGAQhoe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
