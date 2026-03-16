@@ -54,7 +54,10 @@ Application mobile développée avec Flutter permettant de gérer les médicamen
 ![Ajouter don](Screenshots/add_don3.png)
 
 ### Profil utilisateur
-![Profil](Screenshots/profil.png)
+![Profil](Screenshots/profil1.png)
+![Profil](Screenshots/profil2.png)
+![Profil](Screenshots/profil3.png)
+![Profil](Screenshots/profil4.png)
 
 ---
 
