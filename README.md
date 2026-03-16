@@ -1,10 +1,10 @@
-#  Medicaments Flutter App
+# Medicaments Flutter App
 
 Application mobile développée avec Flutter permettant de gérer les médicaments personnels et de partager les médicaments inutilisés sous forme de dons.
 
 ---
 
-##  Fonctionnalités
+## Fonctionnalités
 
 ✔ Ajouter un médicament  
 ✔ Suivre les doses consommées  
@@ -16,7 +16,7 @@ Application mobile développée avec Flutter permettant de gérer les médicamen
 
 ---
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 - Flutter
 - Dart
@@ -27,28 +27,34 @@ Application mobile développée avec Flutter permettant de gérer les médicamen
 
 ## Captures d'écran
 
+### Se connecter
+![Se connecter](Screenshots/login.png)
+
+### Créer un compte
+![Se connecter](Screenshots/signup.png)
+
 ### Mes médicaments
-![Mes medicaments](screenshots/medicaments.png)
+![Mes medicaments](Screenshots/medicaments.png)
 
 ### Ajouter un médicament
-![Ajouter medicament](screenshots/add_medicament1.png)
-![Ajouter medicament](screenshots/add_medicament2.png)
-![Ajouter medicament](screenshots/add_medicament3.png)
+![Ajouter medicament](Screenshots/add_médicament1.png)
+![Ajouter medicament](Screenshots/add_médicament2.png)
+![Ajouter medicament](Screenshots/add_médicament3.png)
 
 ### Statistiques
-![Statistiques](screenshots/statistiques1.png)
-![Statistiques](screenshots/statistiques2.png)
+![Statistiques](Screenshots/statistiques1.png)
+![Statistiques](Screenshots/statistiques2.png)
 
 ### Liste des dons
-![Dons](screenshots/dons.png)
+![Dons](Screenshots/dons.png)
 
 ### Ajouter un don
-![Ajouter don](screenshots/add_don1.png)
-![Ajouter don](screenshots/add_don2.png)
-![Ajouter don](screenshots/add_don3.png)
+![Ajouter don](Screenshots/add_don1.png)
+![Ajouter don](Screenshots/add_don2.png)
+![Ajouter don](Screenshots/add_don3.png)
 
 ### Profil utilisateur
-![Profil](screenshots/profil.png)
+![Profil](Screenshots/profil.png)
 
 ---
 
@@ -58,3 +64,28 @@ Cloner le projet :
 
 ```bash
 git clone https://github.com/MAIRImanar/medicaments_flutter.git
+```
+
+Entrer dans le dossier :
+
+```bash
+cd medicaments_flutter
+```
+
+Installer les dépendances :
+
+```bash
+flutter pub get
+```
+
+Lancer l'application :
+
+```bash
+flutter run
+```
+
+---
+
+## Auteur
+
+Projet réalisé par **Manar MAIRI**
