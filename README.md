@@ -1,10 +1,10 @@
-# 💊 Medicaments Flutter App
+# Medicaments Flutter App
 
 Application mobile développée avec **Flutter** permettant de gérer les médicaments personnels, suivre les prises quotidiennes et partager les médicaments non utilisés grâce à un système de dons.
 
 ---
 
-# 📱 Aperçu
+#  Aperçu
 
 Application complète pour la **gestion des médicaments personnels** avec un **système intelligent de rappels** et une **plateforme de don de médicaments non utilisés**.
 
@@ -16,32 +16,32 @@ Elle aide les utilisateurs à :
 
 ---
 
-# ✨ Fonctionnalités principales
+#  Fonctionnalités principales
 
-## 🏥 Gestion des médicaments
+##  Gestion des médicaments
 - ✅ Ajouter et suivre facilement les médicaments  
 - ✅ Enregistrer les doses quotidiennes  
 - ✅ Suivre les doses restantes  
 - ✅ Consulter les informations détaillées de chaque médicament  
 
-## ⏰ Rappels et notifications
-- 🔔 Notifications pour les horaires de prise des médicaments  
-- ⚠️ Alertes pour les dates d’expiration  
-- 📉 Notifications lorsque le stock est faible  
+##  Rappels et notifications
+-  Notifications pour les horaires de prise des médicaments  
+-  Alertes pour les dates d’expiration  
+-  Notifications lorsque le stock est faible  
 
-## 🤝 Système de dons
-- 💚 Donner les médicaments non utilisés  
-- 🔍 Rechercher les médicaments disponibles  
-- 📍 Localisation et communication avec les donateurs  
+## Système de dons
+-  Donner les médicaments non utilisés  
+-  Rechercher les médicaments disponibles  
+-  Localisation et communication avec les donateurs  
 
-## 📊 Statistiques et rapports
-- 📈 Statistiques complètes sur les médicaments  
-- 📅 Suivi de l’historique des prises  
-- 📊 Analyse de l’utilisation des médicaments  
+##  Statistiques et rapports
+-  Statistiques complètes sur les médicaments  
+-  Suivi de l’historique des prises  
+-  Analyse de l’utilisation des médicaments  
 
 ---
 
-# 🛠️ Technologies utilisées
+# Technologies utilisées
 
 - **Flutter** — Framework de développement d’applications mobiles
 - **Dart** — Langage de programmation principal
@@ -55,7 +55,7 @@ Elle aide les utilisateurs à :
 
 # 📸 Captures d'écran
 
-## 🔐 Authentification
+## Authentification
 
 ### Se connecter
 ![Se connecter](Screenshots/login.png)
@@ -65,7 +65,7 @@ Elle aide les utilisateurs à :
 
 ---
 
-## 💊 Gestion des médicaments
+## Gestion des médicaments
 
 ### Mes médicaments
 ![Mes medicaments](Screenshots/medicaments.png)
@@ -84,7 +84,7 @@ Elle aide les utilisateurs à :
 
 ---
 
-## 🤝 Système de dons
+## Système de dons
 
 ### Liste des dons
 ![Dons](Screenshots/dons.png)
@@ -96,7 +96,7 @@ Elle aide les utilisateurs à :
 
 ---
 
-## 👤 Profil utilisateur
+## Profil utilisateur
 
 ![Profil](Screenshots/profil1.png)
 ![Profil](Screenshots/profil2.png)
@@ -105,9 +105,9 @@ Elle aide les utilisateurs à :
 
 ---
 
-# ⚙️ Installation
+# Installation
 
-### 1️⃣ Cloner le projet
+### Cloner le projet
 
 ```bash
 git clone https://github.com/MAIRImanar/medicaments_flutter.git
